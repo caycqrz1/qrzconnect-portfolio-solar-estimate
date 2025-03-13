@@ -1,0 +1,15 @@
+
+# Ignorar diretórios específicos
+/uploads/*
+/vendor/
+/.idea/
+/.vscode/
+
+# Ignorar arquivos de configuração local
+*.log
+.env
+config.local.php
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db

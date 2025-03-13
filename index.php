@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -30,6 +29,7 @@
                         <li><a href="#portfolio" class="nav-link">Portfólio</a></li>
                         <li><a href="#orcamento" class="nav-link">Orçamentos</a></li>
                         <li><a href="#contato" class="nav-link">Contato</a></li>
+                        <li><a href="admin/login.php" class="nav-link admin-link"><i class="fas fa-lock"></i> Admin</a></li>
                     </ul>
                 </nav>
             </div>
@@ -603,6 +603,7 @@
                         <li><a href="#servicos">Serviços</a></li>
                         <li><a href="#portfolio">Portfólio</a></li>
                         <li><a href="#contato">Contato</a></li>
+                        <li><a href="admin/login.php">Área Administrativa</a></li>
                     </ul>
                 </div>
                 

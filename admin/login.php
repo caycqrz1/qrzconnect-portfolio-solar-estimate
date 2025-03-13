@@ -114,6 +114,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <button type="submit" class="btn btn-primary">Entrar</button>
             </div>
         </form>
+        
+        <div style="margin-top: 20px; text-align: center;">
+            <p>Já possui acesso admin? <a href="index.php">Ir para o Dashboard</a></p>
+        </div>
     </div>
 </body>
 </html>
